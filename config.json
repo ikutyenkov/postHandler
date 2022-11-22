@@ -1,0 +1,13 @@
+{
+  "interface" : {},
+  "queue" : {
+    "client" : "importer"
+  },
+  "handlers" : ["import"],
+  "collects" : {
+    "step_limit" : 300
+  },
+  "sources" : {
+    ""
+  }
+}
